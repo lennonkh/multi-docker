@@ -1,6 +1,6 @@
 {
     "AWSEBDockerrunVersion": 2,
-    "containerDdefinitions": [
+    "containerDefinitions": [
         {
             "name": "client",
             "image": "krykunov/multi-client",
